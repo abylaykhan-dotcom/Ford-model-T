@@ -1,0 +1,49 @@
+h1 {
+    color:rgb(90, 249, 255);
+    font-size: 50px;
+    line-height:1.7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-radius:30px;
+}
+
+body {
+    background-color: rgb(227, 248, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 1;
+    letter-spacing: 2px;
+    border-radius:30px;
+}
+nav {
+    text-align: right;
+    font-size:30px;
+    border-radius:30px;
+}
+.card{
+    color:rgb(198, 213, 255);
+    background-color: rgb(108, 98, 255);
+   padding: 20px;
+   border-radius:30px;
+    max-width: 1000px;
+    margin: 20px auto
+}
+.facts{
+    color:crimson;
+    background-color: rgb(22, 42, 97);
+    padding: 20px;
+    border-radius:30px;
+    color:rgb(116, 241, 241);
+}
+th{
+    background-color: rgb(27, 79, 92);
+    border-top: 3px inset #888888;
+    border-radius:30px;
+    margin: 20px auto ;
+    color:aliceblue
+}
+img{
+    border-radius:30px;
+    display:block;
+    margin: 16px auto 22px;
+    border-top: 3px inset #888888;
+}
